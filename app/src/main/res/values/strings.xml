@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Highlight Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_highlight">Highlight</string>
+    <string name="menu_weather">Weather</string>
+    <string name="menu_worldtime">World Time</string>
+    <string name="menu_goldprice">Gold Price</string>
+    <string name="menu_convert_currency">Convert Currency</string>
+    <string name="menu_stockprice">Stock Price</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
